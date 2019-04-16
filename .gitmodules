@@ -1,0 +1,11 @@
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "danijel.co"]
+	path = danijel.co
+	url = git@github.com:cxromos/danijel.co.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:cxromos/danijel.co.git
+	branch = master

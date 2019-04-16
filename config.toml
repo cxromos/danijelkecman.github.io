@@ -1,4 +1,4 @@
-baseurl = "http://danijel.co"
+baseurl = "https://danijel.co"
 title = "danijel"
 theme = "hugo-coder"
 languagecode = "en"
@@ -23,7 +23,7 @@ disqusShortname = "danijel"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = "solving complexity since inception"
 
     hidecredits = false
     hidecopyright = false
@@ -40,10 +40,10 @@ disqusShortname = "danijel"
     weight = 1
     url = "https://github.com/danijelkecman/"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab fa-2x"
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
     weight = 2
-    url = "https://gitlab.com/danijelkecman/"
+    url = "https://www.linkedin.com/in/danijelkecman/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"

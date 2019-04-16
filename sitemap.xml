@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://danijel.co/categories/</loc>
+    <loc>https://danijel.co/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://danijel.co/tags/</loc>
+    <loc>https://danijel.co/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://danijel.co/</loc>
+    <loc>https://danijel.co/</loc>
     <priority>0</priority>
   </url>
   

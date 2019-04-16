@@ -3,17 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://danijel.co/about/</loc>
-    <lastmod>2019-04-16T15:08:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danijel.co/</loc>
-    <lastmod>2019-04-16T15:08:24+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://danijel.co/categories/</loc>
     <lastmod>2019-04-12T12:10:08+02:00</lastmod>
     <priority>0</priority>
@@ -37,6 +26,12 @@
   </url>
   
   <url>
+    <loc>https://danijel.co/</loc>
+    <lastmod>2019-04-12T12:10:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://danijel.co/categories/init/</loc>
     <lastmod>2019-04-12T12:10:08+02:00</lastmod>
     <priority>0</priority>
@@ -46,6 +41,10 @@
     <loc>https://danijel.co/tags/init/</loc>
     <lastmod>2019-04-12T12:10:08+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danijel.co/about/</loc>
   </url>
   
 </urlset>

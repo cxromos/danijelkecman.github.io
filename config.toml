@@ -23,10 +23,10 @@ disqusShortname = "danijel"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "solving complexity since inception"
+    footercontent = "© 2019 · powered by danijel's lateinit blog writing"
 
-    hidecredits = false
-    hidecopyright = false
+    hidecredits = true
+    hidecopyright = true
 
     rtl = false
 

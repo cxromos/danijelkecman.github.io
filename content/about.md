@@ -7,9 +7,9 @@ I am in the industry for 20 years now. I wrote my first programs in Basic then a
 
 ## Tech:
 
-* C#, ASP.NET Web Forms, ASP.NET MVC, ORMs, REST, SOAP, WS*, WCF, WIF, WPF, ESB, CRM, Network (TCP, UDP, HTTP)
+* C#, ASP.NET Web Forms, ASP.NET MVC, ORMs, REST, SOAP, WS*, WCF, WIF, Network (TCP, UDP, HTTP)
 * Java/Android, JavaScript, Objective-C, Swift, iOS
 * Python/Django/Flask, Ruby/Rails
-* Browsers, Win, OSX, Linux, Mobile (native iOS, Android, WP7), AWS, Azure, RackSpace, DigitalOcean, Parse, Arduino, Rabsberry Pi
+* Browsers, Win, OSX, Linux, Docker, VMs, Mobile (native iOS and Android), AWS, Azure, RackSpace, DigitalOcean, Parse, Arduino, Rabsberry Pi, Nginx, Apache, MSSQL, MySql, Postgres, MongoDB, Redis
 * Patterns, Principles, Enteprise Patterns, Resource Oritented Style, Service Oritented Style, CQRS, DDD, SOLID, OOP, OOD, TDD, BDD, Scrum, Kanban, Lean
 * Enterprise Applications, Integration, Connected Systems (from backend to automated systems, sensory devices reports systems), Real-Time Platforms, Evolutionary Architectures, Monolith to Microservices, ESB, Orchestation

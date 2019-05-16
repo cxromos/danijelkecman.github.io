@@ -3,48 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://danijel.co/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://danijel.co/categories/</loc>
-    <lastmod>2019-04-12T12:10:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danijel.co/posts/hello-world/</loc>
-    <lastmod>2019-04-12T12:10:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danijel.co/posts/</loc>
-    <lastmod>2019-04-12T12:10:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://danijel.co/tags/</loc>
-    <lastmod>2019-04-12T12:10:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://danijel.co/</loc>
-    <lastmod>2019-04-12T12:10:08+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danijel.co/categories/init/</loc>
-    <lastmod>2019-04-12T12:10:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danijel.co/tags/init/</loc>
-    <lastmod>2019-04-12T12:10:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://danijel.co/about/</loc>
   </url>
   
 </urlset>

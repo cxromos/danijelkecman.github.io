@@ -3,7 +3,7 @@ title = "About danijel.co"
 slug = "about"
 +++
 
-I am in the industry for 20 years now. I wrote my first programs in Basic then a bit later in C when I was 10 years old and since then I never stopped programming. I love programming and I love to work with good people in a good corporate culture. I am open, conscientious, and I appreciate those qualities in a corporate culture, an agile approach to work and the development, I like to help to my colleagues to write better code, tests, to learn patterns, new architectures and new ways in programming.
+I am in the industry for 20 years now. I wrote my first programs in Basic then a bit later in C when I was 10 years old and since then I never stopped programming. I love programming and I love to work with good people in a good corporate culture. I am open, conscientious, and I appreciate those qualities in a corporate culture, an agile approach to work and the development. I like to help to my colleagues to write better code, tests, to learn patterns, new architectures and new ways in programming. I welcome to be helped in the same way. I believe that honesty and communication opens the way to a team to do its best.
 
 ## Tech:
 

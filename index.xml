@@ -6,9 +6,19 @@
     <description>Recent content on danijel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 12 Apr 2019 12:10:08 +0200</lastBuildDate>
     
 	<atom:link href="https://danijel.co/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://danijel.co/posts/hello-world/</link>
+      <pubDate>Fri, 12 Apr 2019 12:10:08 +0200</pubDate>
+      
+      <guid>https://danijel.co/posts/hello-world/</guid>
+      <description>###Hello World</description>
+    </item>
     
     <item>
       <title>About danijel.co</title>
@@ -16,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://danijel.co/about/</guid>
-      <description>I am in the industry for 20 years now. I wrote my first programs in Basic then a bit later in C when I was 10 years old and since then I never stopped programming. I love programming and I love to work with good people in a good corporate culture. I am open, conscientious, and I appreciate those qualities in a corporate culture, an agile approach to work and the development, I like to help to my colleagues to write better code, tests, to learn patterns, new architectures and new ways in programming.</description>
+      <description>I am in the industry for 20 years now. I wrote my first programs in Basic then a bit later in C when I was 10 years old and since then I never stopped programming. I love programming and I love to work with good people in a good corporate culture. I am open, conscientious, and I appreciate those qualities in a corporate culture, an agile approach to work and the development.</description>
     </item>
     
   </channel>

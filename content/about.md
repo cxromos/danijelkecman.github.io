@@ -34,3 +34,4 @@ Driven by a strong love for technology, a commitment to excellence, and a desire
 ### A bit of a background
 
 I am in the industry for 20 years now. I wrote my first programs in Basic, then a bit later in C, when I was 10 years old, and since then I never stopped programming. I love programming and I love to work with good people in a good corporate culture. I am open and conscientious, and I appreciate those qualities in corporate culture and an agile approach to work and development. I like to help my colleagues to write better code, and tests, to learn patterns, new architectures, and new ways of programming. I welcome being helped in the same way. I believe that honesty and communication open the way for a team to do its best
+
